@@ -325,7 +325,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/edenWerke/food-recipe.git"
+                href="https://github.com/edenWerke/portfolio.git"
                 target="_blank"
                 className="fork-btn-inner"
               >
