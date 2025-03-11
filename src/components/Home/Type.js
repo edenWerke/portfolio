@@ -9,6 +9,7 @@ function Type() {
           "Software Engineer",
           "MERN Stack Developer",
           "Open Source Contributor",
+          "UI/UX Designer"
           // "Web Developer"
         ],
         autoStart: true,
