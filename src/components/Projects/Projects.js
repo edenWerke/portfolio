@@ -105,14 +105,7 @@ function Projects() {
             />
           </Col>
 
-
-     
-
-
-    
-
-          
-
+      
     
 
         </Row>
